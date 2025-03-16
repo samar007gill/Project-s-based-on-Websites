@@ -1,10 +1,14 @@
 # 🚀 **ADVANCED WEB DEVELOPMENT & PROJECTS**
 
+![Web Development](https://via.placeholder.com/800x200.png?text=Web+Development)
+
 ## 👨‍💻 **ABOUT ME**
 
 I specialize in creating **MODERN, RESPONSIVE, AND HIGH-PERFORMANCE** websites tailored to your needs. Whether you require a **SLEEK BUSINESS WEBSITE**, an **ADVANCED E-COMMERCE PLATFORM**, or a **FULLY CUSTOM WEB APPLICATION**, I provide **TOP-NOTCH SOLUTIONS** with **CUTTING-EDGE TECHNOLOGIES**. 🚀
 
 ## 🔥 **WHAT I OFFER**
+
+![Services](https://via.placeholder.com/800x200.png?text=Services)
 
 🌐 **CUSTOM WEBSITE DEVELOPMENT** (HTML, CSS, JavaScript, React, Vue, Angular, etc.) 🏗️  
 🛠️ **FULL-STACK DEVELOPMENT** (MERN, MEAN, LAMP, Django, etc.) 🔄  
@@ -16,6 +20,8 @@ I specialize in creating **MODERN, RESPONSIVE, AND HIGH-PERFORMANCE** websites t
 🛡️ **MAINTENANCE, SUPPORT & FUTURE ENHANCEMENTS** 🛠️  
 
 ## 🚀 **FEATURED PROJECTS**
+
+![Projects](https://via.placeholder.com/800x200.png?text=Projects)
 
 ### 🛒 **E-COMMERCE PLATFORM**  
 🔹 **A FULLY RESPONSIVE AND SCALABLE ONLINE STORE WITH SECURE PAYMENT GATEWAYS.**
@@ -31,6 +37,8 @@ I specialize in creating **MODERN, RESPONSIVE, AND HIGH-PERFORMANCE** websites t
 
 ## 💡 **WHY CHOOSE ME?**
 
+![Why Choose Me](https://via.placeholder.com/800x200.png?text=Why+Choose+Me)
+
 ✔️ **CUSTOM & SCALABLE SOLUTIONS** - TAILORED TO YOUR BUSINESS NEEDS 🎯  
 ✔️ **ADVANCED TECHNOLOGIES** - ALWAYS UP-TO-DATE WITH THE LATEST TRENDS 🚀  
 ✔️ **RESPONSIVE & SEO-FRIENDLY** - ENSURING MOBILE COMPATIBILITY & VISIBILITY 📱  
@@ -45,3 +53,4 @@ I specialize in creating **MODERN, RESPONSIVE, AND HIGH-PERFORMANCE** websites t
 ---
 
 💻 **YOUR VISION, MY CODE – BRINGING IDEAS TO LIFE!** 🚀
+
