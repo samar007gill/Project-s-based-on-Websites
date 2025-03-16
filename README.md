@@ -1,7 +1,7 @@
 
 # 🚀 **ADVANCED WEB DEVELOPMENT & PROJECTS**
----
-![Web Development](https://source.unsplash.com/1600x400/?technology,code)
+
+![Web Development](https://i.imgur.com/8mJ3VYU.jpg)
 
 ## 👨‍💻 **ABOUT ME**
 
@@ -11,7 +11,7 @@ I specialize in creating **MODERN, RESPONSIVE, AND HIGH-PERFORMANCE** websites t
 
 ## 🔥 **WHAT I OFFER**
 
-![Services](https://source.unsplash.com/800x200/?services,developer)
+![Services](https://i.imgur.com/Y8tNfKZ.jpg)
 
 | 🌟 **Service** | ⚡ **Description** |
 |--------------|----------------|
@@ -28,29 +28,29 @@ I specialize in creating **MODERN, RESPONSIVE, AND HIGH-PERFORMANCE** websites t
 
 ## 🚀 **FEATURED PROJECTS**
 
-![Projects](https://source.unsplash.com/800x200/?projects,teamwork)
+![Projects](https://i.imgur.com/j9k8QVv.jpg)
 
 ### 🛒 **E-COMMERCE PLATFORM**
 🔹 **A FULLY RESPONSIVE AND SCALABLE ONLINE STORE WITH SECURE PAYMENT GATEWAYS.**
-![E-Commerce](https://source.unsplash.com/800x200/?ecommerce,shopping)
+![E-Commerce](https://i.imgur.com/FqXzkLk.jpg)
 
 ### 🏢 **BUSINESS PORTFOLIO WEBSITE**
 🔹 **A SLEEK AND MODERN WEBSITE SHOWCASING A COMPANY'S SERVICES AND TESTIMONIALS.**
-![Portfolio](https://source.unsplash.com/800x200/?business,portfolio)
+![Portfolio](https://i.imgur.com/9WXV3bN.jpg)
 
 ### 🏗️ **CUSTOM WEB APPLICATION**
 🔹 **A TAILORED WEB-BASED SOLUTION FOR BUSINESSES TO STREAMLINE OPERATIONS.**
-![Custom App](https://source.unsplash.com/800x200/?software,app)
+![Custom App](https://i.imgur.com/K2R6xS1.jpg)
 
 ### 📊 **SEO & PERFORMANCE OPTIMIZATION**
 🔹 **IMPROVED WEBSITE SPEED AND VISIBILITY ON SEARCH ENGINES.**
-![SEO Optimization](https://source.unsplash.com/800x200/?seo,analytics)
+![SEO Optimization](https://i.imgur.com/PSm8X79.jpg)
 
 ---
 
 ## 💡 **WHY CHOOSE ME?**
 
-![Why Choose Me](https://source.unsplash.com/800x200/?success,technology)
+![Why Choose Me](https://i.imgur.com/xJ82r1G.jpg)
 
 ✔️ **CUSTOM & SCALABLE SOLUTIONS** - TAILORED TO YOUR BUSINESS NEEDS 🎯  
 ✔️ **ADVANCED TECHNOLOGIES** - ALWAYS UP-TO-DATE WITH THE LATEST TRENDS 🚀  
@@ -68,5 +68,5 @@ I specialize in creating **MODERN, RESPONSIVE, AND HIGH-PERFORMANCE** websites t
 ---
 
 💻 **YOUR VISION, MY CODE – BRINGING IDEAS TO LIFE!** 🚀
-```
+
 
