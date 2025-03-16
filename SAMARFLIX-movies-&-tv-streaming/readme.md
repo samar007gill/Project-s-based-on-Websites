@@ -1,6 +1,6 @@
 # **🎥 SAMARFLIX - THE ULTIMATE MOVIE & TV STREAMING PLATFORM**
 
-**![SamarFlix Banner](https://i.postimg.cc/Y9SMdz0P/John-Wick-3.jpg)**
+![SamarFlix Banner](https://i.postimg.cc/Y9SMdz0P/John-Wick-3.jpg)
 
 **Welcome to SAMARFLIX, your ultimate destination for exploring and streaming movies and TV shows. With an intuitive and stylish interface, SAMARFLIX provides a seamless browsing experience, allowing users to discover and enjoy a wide variety of films and live entertainment.** 🍿
 
@@ -9,7 +9,11 @@
 ## **🌟 KEY FEATURES**
 
 ### **🎬 MOVIE & TV SHOW LISTINGS**
-**![Movie Listings](https://i.postimg.cc/C5mrM9gh/red-notice.jpg)**
+
+<div align="center">
+  <img src="https://i.postimg.cc/C5mrM9gh/red-notice.jpg" width="60%" alt="Movie Listings">
+</div>
+
 - **Browse an extensive collection of movies and TV shows, updated regularly.**
 - **Get detailed movie descriptions, including director, cast, synopsis, and ratings.**
 - **High-quality posters and thumbnails for easy browsing.**
@@ -17,7 +21,11 @@
 - **Watch trailers and previews before selecting a movie.**
 
 ### **🔎 ADVANCED SEARCH & FILTERING**
-**![Search & Filter](https://i.postimg.cc/L6r638wM/casino-royale.jpg)**
+
+<div align="center">
+  <img src="https://i.postimg.cc/L6r638wM/casino-royale.jpg" width="60%" alt="Search & Filter">
+</div>
+
 - **Smart search bar with predictive text suggestions.**
 - **Genre-based filtering to help users find specific movie categories.**
 - **Year-based sorting to browse classic and newly released films.**
@@ -25,21 +33,33 @@
 - **Filter movies based on streaming quality (HD, 4K, etc.).**
 
 ### **📡 LIVE TV STREAMING**
-**![Live Streaming](https://i.postimg.cc/PrY8CrdP/got.jpg)**
+
+<div align="center">
+  <img src="https://i.postimg.cc/PrY8CrdP/got.jpg" width="60%" alt="Live Streaming">
+</div>
+
 - **Enjoy real-time streaming of trending TV shows and events.**
 - **Dedicated section for live content with high-quality visuals.**
 - **Live viewer count to track trending shows.**
 - **Instant access to news, sports, and entertainment channels.**
 
 ### **📱 FULLY RESPONSIVE & INTERACTIVE UI**
-**![Responsive UI](https://i.postimg.cc/VkgsQW5z/saving-private-ryan.jpg)**
+
+<div align="center">
+  <img src="https://i.postimg.cc/VkgsQW5z/saving-private-ryan.jpg" width="60%" alt="Responsive UI">
+</div>
+
 - **Optimized for desktops, tablets, and mobile devices.**
 - **Smooth animations and hover effects for an engaging experience.**
 - **Toggle between light and dark mode for personalized viewing.**
 - **Intuitive navigation with user-friendly menus and layouts.**
 
 ### **🔒 SECURE AND OPTIMIZED PERFORMANCE**
-**![Performance](https://i.postimg.cc/y8LKr6rd/gladiator.jpg)**
+
+<div align="center">
+  <img src="https://i.postimg.cc/y8LKr6rd/gladiator.jpg" width="60%" alt="Performance">
+</div>
+
 - **Fast-loading pages with optimized media assets.**
 - **Secure browsing experience with encrypted connections.**
 - **Well-structured code for easy scalability and future updates.**
@@ -49,14 +69,22 @@
 ## **🛠️ TECHNOLOGIES USED**
 
 ### **🏗️ HTML5 (HYPERTEXT MARKUP LANGUAGE)**
-**![HTML5](https://i.postimg.cc/hjjBqk6r/panther.jpg)**
+
+<div align="center">
+  <img src="https://i.postimg.cc/hjjBqk6r/panther.jpg" width="60%" alt="HTML5">
+</div>
+
 - **Creating a semantic and accessible layout using `<div>`, `<section>`, and `<article>`.**
 - **Implementing SEO-friendly metadata for better search rankings.**
 - **Embedding multimedia elements like images, videos, and trailers.**
 - **Defining links, buttons, and form elements for user interactions.**
 
 ### **🎨 CSS3 (CASCADING STYLE SHEETS)**
-**![CSS3](https://i.postimg.cc/Kv3HBGtL/matrix.jpg)**
+
+<div align="center">
+  <img src="https://i.postimg.cc/Kv3HBGtL/matrix.jpg" width="60%" alt="CSS3">
+</div>
+
 - **Implementing a fully responsive design with media queries.**
 - **Customizing fonts, colors, and themes for an immersive experience.**
 - **Adding animations, transitions, and hover effects.**
@@ -64,7 +92,11 @@
 - **Enabling dark mode for improved visual comfort.**
 
 ### **⚡ JAVASCRIPT (ES6+)**
-**![JavaScript](https://i.postimg.cc/QtyrN6rr/venom.jpg)**
+
+<div align="center">
+  <img src="https://i.postimg.cc/QtyrN6rr/venom.jpg" width="60%" alt="JavaScript">
+</div>
+
 - **Enabling real-time search and filtering functionalities.**
 - **Managing interactive UI elements like dropdowns and modals.**
 - **Fetching and updating movie data dynamically through APIs.**
